@@ -134,9 +134,9 @@
        
     },
   "background": {
-    "blur": 0,
+    "blur": 0.5,
     "url": "https://raw.githubusercontent.com/pxrty/k9kurothemeVendetta/main/20231204_223634.jpg",
-    "alpha": 0.92
+    "alpha": 0.12
   },
     "spec": 2
 }
